@@ -1,6 +1,5 @@
 import rocket from "../../assets/credits-game/rocket.png";
 import { Typography } from "@alfalab/core-components/typography";
-import { ButtonMobile } from "@alfalab/core-components/button/mobile";
 import styles from "./index.module.css";
 
 export const CreditsGameStub = () => {
