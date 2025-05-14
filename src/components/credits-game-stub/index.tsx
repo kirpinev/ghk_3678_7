@@ -28,12 +28,6 @@ export const CreditsGameStub = () => {
           продукт. Вы – наш герой!
         </Typography.Text>
       </div>
-
-      <div className={styles.button}>
-        <ButtonMobile block view="primary" href="https://online.alfabank.ru/">
-          На главный
-        </ButtonMobile>
-      </div>
     </>
   );
 };
